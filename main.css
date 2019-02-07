@@ -20,7 +20,7 @@ html{
 .hero{
     width: 100%;
     height: 100vh;
-    background-image: url("img/davide-ragusa-2238-unsplash.jpg");
+    background-image: url("davide-ragusa-2238-unsplash.jpg");
     background-attachment: fixed;
     background-size: cover;
     display: flex;
