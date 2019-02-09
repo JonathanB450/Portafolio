@@ -399,6 +399,15 @@ html{
         width: 100%;
         height: auto;
     }
+
+    .project1 img, .project2{
+        width: 200px;
+        height: 200px;
+        margin: 30px 50px;
+        background: rgb(163, 163, 163);
+        transition: all 0.4s ease-out    
+    }
+    
 }
 
 @media screen and (max-width:700px){
